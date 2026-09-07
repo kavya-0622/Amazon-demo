@@ -1,1 +1,1 @@
-# Amazon-demo
+# Amazon-clone Project
